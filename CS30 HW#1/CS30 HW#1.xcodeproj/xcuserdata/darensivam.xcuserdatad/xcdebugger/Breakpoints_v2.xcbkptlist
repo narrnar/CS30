@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49DB0D4F-0E4F-4332-A188-A47D5EFFD3F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2271793F-2453-4A08-9911-08F55D373797"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CS30 HW#1/LinkedList.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "2271793F-2453-4A08-9911-08F55D373797 - 4ab07e1790ffd182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList::LinkedList()"
+                  moduleName = "CS30 HW#1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darensivam/Desktop/ECC/2nd%20Year/Fall%2022&apos;/CS30/CS30%20HW%231/CS30%20HW%231/LinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "2271793F-2453-4A08-9911-08F55D373797 - 4ab07e1790ffd1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList::LinkedList()"
+                  moduleName = "CS30 HW#1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darensivam/Desktop/ECC/2nd%20Year/Fall%2022&apos;/CS30/CS30%20HW%231/CS30%20HW%231/LinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C242A488-1524-43F6-B16B-8FFA1C88557D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CS30 HW#1/LinkedList.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C242A488-1524-43F6-B16B-8FFA1C88557D - 4ab07e1790ffd182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList::LinkedList()"
+                  moduleName = "CS30 HW#1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darensivam/Desktop/ECC/2nd%20Year/Fall%2022&apos;/CS30/CS30%20HW%231/CS30%20HW%231/LinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "C242A488-1524-43F6-B16B-8FFA1C88557D - 4ab07e1790ffd1e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList::LinkedList()"
+                  moduleName = "CS30 HW#1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darensivam/Desktop/ECC/2nd%20Year/Fall%2022&apos;/CS30/CS30%20HW%231/CS30%20HW%231/LinkedList.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
